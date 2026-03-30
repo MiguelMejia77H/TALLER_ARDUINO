@@ -56,6 +56,9 @@ Materiales utilizados
 
    <img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/dcd1fc8f-5852-4c2f-bab9-addd4ab0394e" />
 
+   <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f5935357-fe5f-487b-b11e-eddea1f17cbb" />
+
+
    ## Simulacion de semaforo vial con tiempos
 
 se implementa un semáforo funcional utilizando una placa: 
