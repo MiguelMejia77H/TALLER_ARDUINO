@@ -77,6 +77,8 @@ como representación física de las luces del semáforo. El control del tiempo d
 El ciclo programado es el siguiente: 5 segundos en rojo, 4 segundos en amarillo y 7 segundos en verde antes de volver al rojo, repitiendo el ciclo de forma continua
 
 
+https://github.com/MiguelMejia77H/TALLER_ARDUINO/blob/main/SEMAFORO.mp4
+
 Codigo
 
 <img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/fffdfdf2-673e-4ae4-825d-7b92c5641055" />
