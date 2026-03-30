@@ -56,9 +56,11 @@ Materiales utilizados
 
    <img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/dcd1fc8f-5852-4c2f-bab9-addd4ab0394e" />
 
+   <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/7e0d9adc-e524-4d57-a8a6-bb58d303adcd" />
+
    <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f5935357-fe5f-487b-b11e-eddea1f17cbb" />
 
-   <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/d43591ce-5081-44eb-8904-d1467b668ba9" />
+
 
 
 
