@@ -17,7 +17,9 @@ Materiales utilizados
 3. LED verde
 4. LED amarillo
 5. lED rojo
-6. Resistencias 220Ω
+6. 3 Resistencias 220Ω
+7. 2 Resistencias 10kΩ
+8. Protoboard
 
 
 Codigo
@@ -69,6 +71,8 @@ Materiales utilizados
 se implementa un semáforo funcional utilizando una placa: 
 1. Arduino UNO
 2. tres LEDs (rojo, amarillo y verde)
+3. 3 Resistencias 220Ω
+4. Protoboard
 
 
 como representación física de las luces del semáforo. El control del tiempo de cada fase se realiza mediante la función delay() de Arduino, que permite pausar la ejecución del programa durante una cantidad exacta de milisegundos.
