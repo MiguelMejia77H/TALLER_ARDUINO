@@ -25,6 +25,30 @@ Codigo
 <img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/55e25364-838c-4bd2-b783-3f5b0c9134ba" />
 
 
+## Conversor binario a hexadecimal
+
+2. ¿Que es un coversor binario a hexadecimal?
+
+
+Un conversor de binario a hexadecimal es un circuito lógico digital que actúa como un "traductor", transformando grupos de cuatro bits (unos y ceros) en un solo carácter alfanumérico legible del 0 al 9 o de la A a la F.
+
+
+Materiales utilizados
+
+1. Arduino Uno R3.
+
+2. Protoboard.
+
+3. Interruptor DIP de 4 posiciones (Para las entradas binarias D, C, B, A).
+
+4. Visualizador de 7 segmentos (Configúrarlo como Cátodo).
+
+5. 4 Resistencias de 10kΩ.
+
+6. 7 Resistencias de 220Ω.
+
+
+
 
   
 
