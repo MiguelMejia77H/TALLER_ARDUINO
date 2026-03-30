@@ -14,7 +14,7 @@ Materiales utilizados
 2. Pulsadores
 3. LED verde
 4. LED amarillo
-5. lED rojo1Salida
+5. lED rojo
 6. Resistencias 220Ω
 
 
