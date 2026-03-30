@@ -58,6 +58,9 @@ Materiales utilizados
 
    <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f5935357-fe5f-487b-b11e-eddea1f17cbb" />
 
+   <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/d43591ce-5081-44eb-8904-d1467b668ba9" />
+
+
 
    ## Simulacion de semaforo vial con tiempos
 
