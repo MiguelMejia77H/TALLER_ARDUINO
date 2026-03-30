@@ -56,6 +56,24 @@ Materiales utilizados
 
    <img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/dcd1fc8f-5852-4c2f-bab9-addd4ab0394e" />
 
+   ## Simulacion de semaforo vial con tiempos
+
+se implementa un semáforo funcional utilizando una placa: 
+1. Arduino UNO como cerebro del sistema
+2. tres LEDs (rojo, amarillo y verde)
+
+
+como representación física de las luces del semáforo. El control del tiempo de cada fase se realiza mediante la función delay() de Arduino, que permite pausar la ejecución del programa durante una cantidad exacta de milisegundos.
+
+
+El ciclo programado es el siguiente: 5 segundos en rojo, 4 segundos en amarillo y 7 segundos en verde antes de volver al rojo, repitiendo el ciclo de forma continua
+
+
+Codigo
+
+<img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/fffdfdf2-673e-4ae4-825d-7b92c5641055" />
+
+
 
 
 
