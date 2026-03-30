@@ -20,7 +20,7 @@ Materiales utilizados
 
 Codigo
 
-<img width="556" height="632" alt="image" src="https://github.com/user-attachments/assets/55e25364-838c-4bd2-b783-3f5b0c9134ba" />
+<img width="330" height="430" alt="image" src="https://github.com/user-attachments/assets/55e25364-838c-4bd2-b783-3f5b0c9134ba" />
 
 
 
