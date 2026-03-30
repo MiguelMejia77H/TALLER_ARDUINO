@@ -20,35 +20,10 @@ Materiales utilizados
 
 Codigo
 
-int A = 2;
-int B = 3;
+<img width="556" height="632" alt="image" src="https://github.com/user-attachments/assets/55e25364-838c-4bd2-b783-3f5b0c9134ba" />
 
-int ledAND = 8;
-int ledOR = 9;
-int ledNOT = 10;
 
-void setup() {
- pinMode(A, INPUT);
- pinMode(B, INPUT);
-  
- pinMode(ledAND, OUTPUT);
- pinMode(ledOR, OUTPUT);
- pinMode(ledNOT, OUTPUT);
-}
 
-void loop() {
- int estadoA = digitalRead(A);
- int estadoB = digitalRead(B);
-  
- // AND
- digitalWrite(ledAND, estadoA && estadoB);
-  
- // OR
- digitalWrite(ledOR, estadoA || estadoB);
-  
- // NOT (solo A)
- digitalWrite(ledNOT, !estadoA);
-}
   
 
 
