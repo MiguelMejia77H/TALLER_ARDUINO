@@ -18,3 +18,37 @@ Materiales utilizados
 6. Resistencias 220Ω
 
 
+Codigo
+
+int A = 2;
+int B = 3;
+
+int ledAND = 8;
+int ledOR = 9;
+int ledNOT = 10;
+
+void setup() {
+ pinMode(A, INPUT);
+ pinMode(B, INPUT);
+  
+ pinMode(ledAND, OUTPUT);
+ pinMode(ledOR, OUTPUT);
+ pinMode(ledNOT, OUTPUT);
+}
+
+void loop() {
+ int estadoA = digitalRead(A);
+ int estadoB = digitalRead(B);
+  
+ // AND
+ digitalWrite(ledAND, estadoA && estadoB);
+  
+ // OR
+ digitalWrite(ledOR, estadoA || estadoB);
+  
+ // NOT (solo A)
+ digitalWrite(ledNOT, !estadoA);
+}
+  
+
+
