@@ -33,6 +33,9 @@ Codigo
 Un conversor de binario a hexadecimal es un circuito lógico digital que actúa como un "traductor", transformando grupos de cuatro bits (unos y ceros) en un solo carácter alfanumérico legible del 0 al 9 o de la A a la F.
 
 
+"C:\Users\nicol\Downloads\coversor binario a hexadecimal.mp4"
+
+
 
 
 Materiales utilizados
