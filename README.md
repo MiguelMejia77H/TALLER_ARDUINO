@@ -10,5 +10,11 @@ https://github.com/MiguelMejia77H/TALLER_ARDUINO/blob/main/COMPUERTAS%20LOGICAS.
 
 
 Materiales utilizados
-ComponenteCantidadFunciónArduino UNO1Controlador principalPulsadores2Entradas A y BLED verde1Salida compuerta ANDLED amarillo1Salida compuerta ORLED rojo1Salida compuerta NOTResistencias 220Ω3Protección LEDs
+1. Arduino UNO1
+2. Pulsadores
+3. LED verde
+4. LED amarillo
+5. lED rojo1Salida
+6. Resistencias 220Ω
+
 
