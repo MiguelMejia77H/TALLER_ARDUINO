@@ -9,3 +9,6 @@ Las compuertas lógicas son circuitos electrónicos que toman señales de entrad
 https://github.com/MiguelMejia77H/TALLER_ARDUINO/blob/main/COMPUERTAS%20LOGICAS.mp4
 
 
+Materiales utilizados
+ComponenteCantidadFunciónArduino UNO1Controlador principalPulsadores2Entradas A y BLED verde1Salida compuerta ANDLED amarillo1Salida compuerta ORLED rojo1Salida compuerta NOTResistencias 220Ω3Protección LEDs
+
