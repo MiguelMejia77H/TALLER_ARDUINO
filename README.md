@@ -33,6 +33,8 @@ Codigo
 Un conversor de binario a hexadecimal es un circuito lógico digital que actúa como un "traductor", transformando grupos de cuatro bits (unos y ceros) en un solo carácter alfanumérico legible del 0 al 9 o de la A a la F.
 
 
+
+
 Materiales utilizados
 
 1. Arduino Uno R3.
