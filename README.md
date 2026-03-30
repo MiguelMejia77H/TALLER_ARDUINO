@@ -1,5 +1,7 @@
 # TALLER_ARDUINO
 
+
+## COMPUERTAS LOGICAS
 1. ¿Qué son las compuertas lógicas?
 
 
