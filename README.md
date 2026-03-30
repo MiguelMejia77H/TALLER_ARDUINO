@@ -67,7 +67,7 @@ Materiales utilizados
    ## Simulacion de semaforo vial con tiempos
 
 se implementa un semáforo funcional utilizando una placa: 
-1. Arduino UNO como cerebro del sistema
+1. Arduino UNO
 2. tres LEDs (rojo, amarillo y verde)
 
 
