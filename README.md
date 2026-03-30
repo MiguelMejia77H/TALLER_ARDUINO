@@ -12,7 +12,7 @@ https://github.com/MiguelMejia77H/TALLER_ARDUINO/blob/main/COMPUERTAS%20LOGICAS.
 
 
 Materiales utilizados
-1. Arduino UNO1
+1. Arduino UNO
 2. Pulsadores
 3. LED verde
 4. LED amarillo
@@ -39,7 +39,7 @@ Un conversor de binario a hexadecimal es un circuito lógico digital que actúa 
 
 Materiales utilizados
 
-1. Arduino Uno R3.
+1. Arduino UNO
 
 2. Protoboard.
 
